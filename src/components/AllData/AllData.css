@@ -1,0 +1,13 @@
+.AllDataContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; /* Allow cards to wrap if there are many */
+  }
+  .background {
+    
+    background-image: url('C:\Users\HP\Downloads\p2\my-project\src\blue.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh
+  }

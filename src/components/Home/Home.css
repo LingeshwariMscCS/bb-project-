@@ -1,0 +1,13 @@
+.HomeContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This will center vertically */
+  }
+  .background {
+    
+    background-image: url('C:\Users\HP\Downloads\p2\my-project\src\blue.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh
+  } 
